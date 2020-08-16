@@ -1,0 +1,38 @@
+/* your styles go here */
+@import url('https://fonts.googleapis.com/css2?family=Athiti&family=Prompt:wght@300&display=swap');
+
+
+// general
+body, input, button, select, optgroup, textarea {
+    font-family: 'Athiti', sans-serif;
+}
+.content-column-content {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: 'Athiti', sans-serif;
+}
+.box-masonry-description {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  font-family: 'Athiti', sans-serif;
+}
+.sidebar-p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: 'Athiti', sans-serif;
+}
+a,h1,h2,h3,h4,h5,h6 {
+    font-family: 'Prompt', sans-serif;
+    font-weight:700;
+}
+blockquote {
+    font-family: 'Prompt', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    cite {
+        font-weight:700;
+    }
+}
