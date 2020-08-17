@@ -46,7 +46,7 @@ paginate = 10
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "portfolio/"
+  url = "to.you/"
   home = true
 
   [[params.navlinks]]
