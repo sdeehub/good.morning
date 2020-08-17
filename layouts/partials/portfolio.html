@@ -22,11 +22,7 @@
                           <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                           <div class="box-masonry-description">
                             <p>
-                                {{ if .Description }}
-                                  {{ .Description }}
-                                {{ else }}
-                                  {{ .Summary }}
-                                {{ end }}
+                                {{ .Date.Format "Monday • January 2, 2006" }}
                             </p>
                           </div> <!-- div box-masonry-description -->
                       </div> <!-- div box-masonry-hover-text-header or box-masonry-text -->
@@ -40,7 +36,7 @@
           <nav class="paginate-container">
             <div class="pagination">
               <ul class="sidebar-menu">
-                • 
+                •
                 {{ range .Paginator.Pagers }}
                   <a href="{{ .URL }}">
                     {{ .PageNumber }}

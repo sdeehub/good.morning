@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sdeehub.github.io/good.morning/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <loc>https://sdeehub.github.io/good.morning/to.you/</loc>
+    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sdeehub.github.io/good.morning/</loc>
+    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdeehub.github.io/good.morning/to.you/2020-08-17/</loc>
+    <lastmod>2020-08-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdeehub.github.io/good.morning/to.you/2020-08-16/</loc>
+    <lastmod>2020-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sdeehub.github.io/good.morning/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
@@ -23,18 +38,6 @@
   
   <url>
     <loc>https://sdeehub.github.io/good.morning/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sdeehub.github.io/good.morning/to.you/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sdeehub.github.io/good.morning/to.you/2020-08-16/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sdeehub.github.io/good.morning/to.you/2020-08-17/</loc>
   </url>
   
 </urlset>
