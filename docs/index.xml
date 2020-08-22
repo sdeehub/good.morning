@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>วันใหม่ วันนี้ วันดีของพวกเรา</title>
@@ -6,10 +6,20 @@
     <description>Recent content on วันใหม่ วันนี้ วันดีของพวกเรา</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sdeehub.github.io/good.morning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>พลังกาย พลังใจ</title>
+      <link>https://sdeehub.github.io/good.morning/to.you/2020-08-22/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sdeehub.github.io/good.morning/to.you/2020-08-22/</guid>
+      <description>เช้าวันใหม่ เต็มเปี่ยมด้วย พลังกายและพลังใจ
+ หายใจเข้าสดชื่น หายใจออกสบาย เมื่อคืนได้พักสบาย ๆ เช้านี้มีพลังกาย พลังใจกลับมาสดชื่นอีกวัน ยิ้มรับวันใหม่ ออกไปใช้ชีวิตให้เต็มพลัง</description>
+    </item>
     
     <item>
       <title>ขอบคุณ</title>
