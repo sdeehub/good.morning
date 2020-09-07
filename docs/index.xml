@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>วันใหม่ วันนี้ วันดีของพวกเรา</title>
@@ -10,6 +10,16 @@
     
 	<atom:link href="https://sdeehub.github.io/good.morning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>สงบ สวยงาม ชื่นใจ</title>
+      <link>https://sdeehub.github.io/good.morning/to.you/2020-09-06/</link>
+      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sdeehub.github.io/good.morning/to.you/2020-09-06/</guid>
+      <description>เช้าที่สงบ ดอกไม้บานสวยงาม พวกเราพากันชื่นใจ
+ ชื่นใจในดอกไม้ ชื่นใจกับผลลัพธ์ ชื่นใจกับสิ่งที่ทำลงไปแล้วได้ผลดี ดอกไม้บานสีสวยงาม ในเช้าวันนี้ เช้าตรู่ที่สงบ ไม่ถึงกับเงียบเพราะยังได้ยินเสียงนกอยู่ทั่วไป เป็นความสงบที่เต็มไปด้วยชีวิตชีวาที่เติบโต สวยงามตามธรรมชาติ</description>
+    </item>
     
     <item>
       <title>เช้าวันเสาร์</title>
