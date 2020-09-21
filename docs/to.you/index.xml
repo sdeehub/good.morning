@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>To.yous on วันใหม่ วันนี้ วันดีของพวกเรา</title>
@@ -6,10 +6,16 @@
     <description>Recent content in To.yous on วันใหม่ วันนี้ วันดีของพวกเรา</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sdeehub.github.io/good.morning/to.you/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sdeehub.github.io/good.morning/to.you/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>บ้าน</title>
+      <link>https://sdeehub.github.io/good.morning/to.you/2020-09-21/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sdeehub.github.io/good.morning/to.you/2020-09-21/</guid>
+      <description>บ้านเป็นทุกอย่างของพวกเรา
+ บ้านเป็นจุดเริ่มต้น บ้านเป็นที่เลี้ยงดู ฟูมฟักทะนุถนอม บ้านให้ความรัก บ้านสร้างความหวัง บ้านมอบศรัทธาและเสริมสร้างกำลังใจ บ้านคือสถานที่ ที่พวกเรากลับไปและรับพลังชีวิตที่เป็นอนันต์</description>
+    </item>
     
     <item>
       <title>สบาย</title>
@@ -18,7 +24,7 @@
       
       <guid>https://sdeehub.github.io/good.morning/to.you/2020-09-20/</guid>
       <description>เช้านี้สบาย ๆ เพราะเป็นเช้าวันอาทิตย์
- อากาศดี: ตื่นเช้า มีเวลา: การจราจรคล่องตัว ถนนโล่ง อากาศดี: ออกไปข้างนอก อบผ้าเรียบร้อย แวะซื้อของเรียบร้อย ออกกำลังกายเรียบร้อย เก็บของ จัดโต๊ะใหม่ เรียบร้อย  เรียบง่าย สบาย ๆ เพราะเป็นเช้าวันอาทิตย์ และ ทุก ๆ วัน - เพราะจริง ๆ พวกเราก็ทำแบบนี้ได้ทุก ๆ วัน :)</description>
+  อากาศดี: ตื่นเช้า มีเวลา: การจราจรคล่องตัว ถนนโล่ง อากาศดี: ออกไปข้างนอก อบผ้าเรียบร้อย แวะซื้อของเรียบร้อย ออกกำลังกายเรียบร้อย เก็บของ จัดโต๊ะใหม่ เรียบร้อย  เรียบง่าย สบาย ๆ เพราะเป็นเช้าวันอาทิตย์ และ ทุก ๆ วัน - เพราะจริง ๆ พวกเราก็ทำแบบนี้ได้ทุก ๆ วัน :)</description>
     </item>
     
     <item>
