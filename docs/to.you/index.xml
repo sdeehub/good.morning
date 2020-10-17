@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>To.yous on วันใหม่ วันนี้ วันดีของพวกเรา</title>
@@ -6,7 +6,22 @@
     <description>Recent content in To.yous on วันใหม่ วันนี้ วันดีของพวกเรา</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sdeehub.github.io/good.morning/to.you/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sdeehub.github.io/good.morning/to.you/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>เสาร์-อาทิตย์</title>
+      <link>https://sdeehub.github.io/good.morning/to.you/2020-10-17/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sdeehub.github.io/good.morning/to.you/2020-10-17/</guid>
+      <description>วันหยุดเสาร์-อาทิตย์
+ เช้าวันหยุดมีความสุข สดชื่น สบาย ๆ ค่อย ๆ ใช้เวลา ช้า ๆ กับวันหยุด ฟังเสียงฝน ฟังเสียงนก ฟังเสียงแมว พอสาย ๆ ก็ร้องเพลง ฟังเสียงตัวเอง :)
+วันหยุดอยู่กับบ้าน อยู่กับครอบครัว อยู่กับคนที่เรารัก อยู่ด้วยความอบอุ่น ห่วงใย ปรารถนาดีและมีรอยยิ้มให้กันและกัน</description>
+    </item>
+    
     <item>
       <title>แม่</title>
       <link>https://sdeehub.github.io/good.morning/to.you/2020-10-16/</link>
@@ -302,7 +317,7 @@ Be honest. Be open. Be the change. Do not fear the winds of adversity. Remember,
       
       <guid>https://sdeehub.github.io/good.morning/to.you/2020-09-20/</guid>
       <description>เช้านี้สบาย ๆ เพราะเป็นเช้าวันอาทิตย์
-  อากาศดี: ตื่นเช้า มีเวลา: การจราจรคล่องตัว ถนนโล่ง อากาศดี: ออกไปข้างนอก อบผ้าเรียบร้อย แวะซื้อของเรียบร้อย ออกกำลังกายเรียบร้อย เก็บของ จัดโต๊ะใหม่ เรียบร้อย  เรียบง่าย สบาย ๆ เพราะเป็นเช้าวันอาทิตย์ และ ทุก ๆ วัน - เพราะจริง ๆ พวกเราก็ทำแบบนี้ได้ทุก ๆ วัน :)</description>
+ อากาศดี: ตื่นเช้า มีเวลา: การจราจรคล่องตัว ถนนโล่ง อากาศดี: ออกไปข้างนอก อบผ้าเรียบร้อย แวะซื้อของเรียบร้อย ออกกำลังกายเรียบร้อย เก็บของ จัดโต๊ะใหม่ เรียบร้อย  เรียบง่าย สบาย ๆ เพราะเป็นเช้าวันอาทิตย์ และ ทุก ๆ วัน - เพราะจริง ๆ พวกเราก็ทำแบบนี้ได้ทุก ๆ วัน :)</description>
     </item>
     
     <item>
