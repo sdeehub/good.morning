@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>วันใหม่ วันนี้ วันดีของพวกเรา</title>
@@ -6,7 +6,23 @@
     <description>Recent content on วันใหม่ วันนี้ วันดีของพวกเรา</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sdeehub.github.io/good.morning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sdeehub.github.io/good.morning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ออกดอก</title>
+      <link>https://sdeehub.github.io/good.morning/to.you/2020-12-03/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sdeehub.github.io/good.morning/to.you/2020-12-03/</guid>
+      <description>เกือบสองเดือนที่เงียบไป
+ เช้าวันนี้หลังจากที่เงียบไปเกือบสองเดือน จัดตารางออกกำลังกายใหม่ แบ่งเวลามาทำ HIIT อ่านหนังสือเฉพาะเสาร์-อาทิตย์ ปรับและสรุปงานของปีหน้า คุยงาน-แนะนำตัวกับทีม
+แวะไปนวดตัว ปวดคอทำให้ต้องตั้งใจนั่งให้ตรง ยืดเส้นและทำโยคะเพิ่มให้บ่อยขึ้น ทานพักให้เยอะมากขึ้น ทานเนื้อให้น้อยลง จัดการเรื่องงานเขียนใหม่
+ปีใหม่กำลังจะมาถึงแล้ว ดอกไม้บาน ลืมตาหลับตาก็ให้ขอบคุณ พอเพียงและมีความสุขอยู่เสมอ</description>
+    </item>
+    
     <item>
       <title>แดดออก</title>
       <link>https://sdeehub.github.io/good.morning/to.you/2020-10-21/</link>
@@ -28,7 +44,9 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;เดินต่อไป&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;เดินต่อไปในความว่างเปล่า ทำต่อไปในความล้มเหลว มุ่งมั่นต่อไปในความฝัน ยิ้มเข้าไว้ไม่ว่าอะไรจะเกิดขึ้น อดทนและอภัยให้กับตัวเราเองอย่างถึงที่สุด&lt;/p&gt;</description>
+
+&lt;p&gt;เดินต่อไปในความว่างเปล่า ทำต่อไปในความล้มเหลว มุ่งมั่นต่อไปในความฝัน ยิ้มเข้าไว้ไม่ว่าอะไรจะเกิดขึ้น อดทนและอภัยให้กับตัวเราเองอย่างถึงที่สุด
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,7 +58,9 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;ย้อนกลับไป&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;ย้อนกลับไปวันที่ชีวิตได้เปลี่ยนทุก ๆ อย่างไปตลอดกาล วันที่เสียงร้อง วันที่ความโกลาหล ปนความตื่นเต้น มืดและห่างไปตลอดกาล&lt;/p&gt;</description>
+
+&lt;p&gt;ย้อนกลับไปวันที่ชีวิตได้เปลี่ยนทุก ๆ อย่างไปตลอดกาล วันที่เสียงร้อง วันที่ความโกลาหล ปนความตื่นเต้น มืดและห่างไปตลอดกาล
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -360,7 +380,7 @@ Be honest. Be open. Be the change. Do not fear the winds of adversity. Remember,
       
       <guid>https://sdeehub.github.io/good.morning/to.you/2020-09-20/</guid>
       <description>เช้านี้สบาย ๆ เพราะเป็นเช้าวันอาทิตย์
-  อากาศดี: ตื่นเช้า มีเวลา: การจราจรคล่องตัว ถนนโล่ง อากาศดี: ออกไปข้างนอก อบผ้าเรียบร้อย แวะซื้อของเรียบร้อย ออกกำลังกายเรียบร้อย เก็บของ จัดโต๊ะใหม่ เรียบร้อย  เรียบง่าย สบาย ๆ เพราะเป็นเช้าวันอาทิตย์ และ ทุก ๆ วัน - เพราะจริง ๆ พวกเราก็ทำแบบนี้ได้ทุก ๆ วัน :)</description>
+ อากาศดี: ตื่นเช้า มีเวลา: การจราจรคล่องตัว ถนนโล่ง อากาศดี: ออกไปข้างนอก อบผ้าเรียบร้อย แวะซื้อของเรียบร้อย ออกกำลังกายเรียบร้อย เก็บของ จัดโต๊ะใหม่ เรียบร้อย  เรียบง่าย สบาย ๆ เพราะเป็นเช้าวันอาทิตย์ และ ทุก ๆ วัน - เพราะจริง ๆ พวกเราก็ทำแบบนี้ได้ทุก ๆ วัน :)</description>
     </item>
     
     <item>
